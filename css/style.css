@@ -18,14 +18,14 @@ body.dark .btn-theme{
     transition: 0.3s;
 }
 
-/* .input1 {
+ .input1 {
     width: 300px;
     height: 40px;
     border: 2px solid #ccc;
     border-radius: 10px;
     font: 16px 'Montserrat', sans-serif;
     margin-bottom: 30px;
-} */
+} 
 
 .container {
     display: flex;
